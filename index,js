@@ -1,0 +1,13 @@
+// Function Statement aka Function Declaration
+
+function a(){
+    console.log("a called");
+}
+
+// Function Expression
+var b = function(parameter1. parameter2) {
+    console.log("b called";)
+}
+
+a();
+b(1,2); 
